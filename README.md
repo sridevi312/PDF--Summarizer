@@ -11,7 +11,8 @@ A full-stack web application that extracts text from PDF files and generates con
  Future-ready structure for integrating user authentication and cloud storage
 
  Tech Stack
- 
+
+
 Backend: Python, Flask
 PDF Processing: PDFMiner
 AI Integration: Gemini API
