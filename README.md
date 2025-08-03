@@ -20,6 +20,7 @@ A full-stack web application that extracts text from PDF files and generates con
 | Vector Search        | FAISS                        |
 | API Key Handling     | python-dotenv + constants.py |
 
+Architecture
 
 
  <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/8d0466e8-58a2-4f16-a988-d7f65e18dc6b" />
